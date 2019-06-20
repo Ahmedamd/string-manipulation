@@ -1,0 +1,6 @@
+﻿  Solution.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\tuple(17): error C2143: syntax error: missing ';' before 'namespace'
+c:\users\ahmed\source\repos\solution1\solution1\solution.cpp(10): error C2059: syntax error: ';'
+c:\users\ahmed\source\repos\solution1\solution1\solution.cpp(12): error C2059: syntax error: 'return'
+c:\users\ahmed\source\repos\solution1\solution1\solution.cpp(13): error C2059: syntax error: '}'
+c:\users\ahmed\source\repos\solution1\solution1\solution.cpp(13): error C2143: syntax error: missing ';' before '}'
